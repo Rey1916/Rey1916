@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rey1916
-- 👀 I’m interested in blockchain and every technology related stuff.
+- 👀 I’m interested in blockchain and every techn related stuff.
 - 🌱 I’m currently learning cairo,python,solidity.
 - 💞️ I’m looking to collaborate on developing in blockchain.
 - 📫 How to reach me @REY_1916 IN X,TELEGRAM and DISCORD.
